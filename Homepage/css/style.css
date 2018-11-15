@@ -1,0 +1,62 @@
+.footer{
+  padding-bottom: 2em;
+  border-top: 1.5px solid #eee;
+  padding: 2em 0;
+  background-color: black;
+}
+.ftr_navi ul li{
+	display:block;
+}
+.ftr_navi ul li a{
+	display:block;
+	padding:5px 0;
+	color: #848484;
+	font-size: .95em;
+}
+
+.ftr_navi ul li a:hover,.get_in_touch a:hover,.ftr-logo p a:hover{
+	text-decoration:none;
+	color:#fff;
+}
+.ftr-logo p{
+	margin-top:1em;
+	color: #848484;
+	line-height:1.8em;
+	  font-size: 0.95em;
+}
+.ftr-logo p a{
+	color: #848484;
+}
+.copywrite{
+	float:left;
+}
+.ftr{
+	margin-top:0em;
+	padding:0;
+}
+.ftr_navi.ftr ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.ftr-logo {
+  margin-top: 7em;
+}
+.get_in_touch h3,.ftr_navi h3{
+	  letter-spacing: 2px;
+	  font-family: 'Poiret One', cursive;
+  font-size: 1em;
+  font-weight: 600;
+  margin-bottom: 1em;
+    color: #fff;
+}
+.get_in_touch p {
+  color: #848484;
+  font-size: .95em;
+    padding: 0px 0;
+}
+.get_in_touch a {
+  color: #848484;
+  font-size: 0.9em;
+  text-decoration: none;
+}

@@ -1,0 +1,20 @@
+/*-- footer --*/
+.footer{
+  background: #71c13f;
+  padding: 30px 0;
+}
+.footer p {
+margin:0px 0 0 0;
+font-size:14px;
+color: #000;
+font-weight: 600;
+text-align:center;
+}
+.footer p a{
+text-decoration:none;
+color:#fff;
+}
+.footer p a:hover{
+color: #000;
+}
+/*-- //footer --*/
