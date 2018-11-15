@@ -9,7 +9,7 @@
 ![](screenshort_MINi_project/prefrences.png)
 ![](screenshort_MINi_project/mail_index.png)
 ![](screenshort_MINi_project/hod_login_index1.png)
-![](screenshort_MINi_project/hod_manage_users.png
+![](screenshort_MINi_project/hod_manage_users.png)
 ![](screenshort_MINi_project/hod_notif.png)
 
 ![](screenshort_MINi_project/student_index.png)
