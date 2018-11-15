@@ -1,5 +1,10 @@
 # Placement--Management--System
 
+
+# Preview 
+![](screenshort_MINi_project/home.png)
+
+![](screenshort_MINi_project/index_home.png)
 ## A Smart Way to Manage the Progress of Students
 
 ## How to use this repository in your Local machine.
