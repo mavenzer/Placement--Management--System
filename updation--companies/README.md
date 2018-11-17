@@ -26,5 +26,4 @@ Create a new db in PHPmyAdmin named tandp and import into it tandp.sql.
 Visit https://localhost:80/ and open the project
 
 
-###For any queries feel free to ping me @
-tiwari.anurag126@gmail.com
+
